@@ -32,7 +32,7 @@ Sentinova is an end-to-end sentiment analysis pipeline powered by MLOps. It comb
 Model testing beyond accuracy:
 
 - **MFT**: Negation-based test (e.g., "I like this" → "I don't like this")
-- **INV**: Typo/contraction test (e.g., "I can't wait" → "I can not wiat")
+- **INV**: Typo/contraction test (e.g., "I can't wait" → "I can not wait")
 
 Both tests are automated and logged into test_results.
 
